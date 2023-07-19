@@ -1,0 +1,5 @@
+*.dart linguist-detectable=true  
+*.Kotlin linguist-detectable=true  
+*.Swift linguist-detectable=true  
+*.HTML linguist-detectable=true  
+*.Objective-C linguist-detectable=true
